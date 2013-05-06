@@ -1,7 +1,9 @@
-ofxEmotiv
+EJEMPLOS EMOTIV
 =========
 
 Ejemplos del sdk de Emotiv modificados para utilizarlos dentro de OpenFrameworks.
+
+Estos ejemplos no requieren ofxEmotiv.
 
 El SDK esta hecho para windows, así que solo incluyo las soluciones para 
 Visual C++ 2010
